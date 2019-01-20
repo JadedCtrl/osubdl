@@ -58,7 +58,7 @@ function search {
 	url="${url}/sublanguageid-${lang}"
 	url="${url}/moviehash-${hash}"
 
-	curl --silent "$url"
+	gendl "$url"
 }
 
 # |STRING --> [BOOLEAN]
