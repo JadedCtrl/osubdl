@@ -2,6 +2,8 @@
 OSUBDL                                                 Fetch subs, senprobleme!
 ===============================================================================
 
+2024 note: This is an old script; it probably doesn’t work anymore.
+
 It's kind of annoying to visit OpenSubtitle's website.
 First off, their site's shit.
 Second off, it uses Javascript.
@@ -43,5 +45,5 @@ file-extension.
 BORING STUFF
 ----------------------------------------
 License is CC-0
-Author is Jenga Phoenix <jadedctrl@teknik.io>
-Sauce is at https://git.eunichx.us/osubdl
+Author is Jenga Phoenix <jadedctrl@posteo.at>
+Sauce is at https://hak.xwx.moe/jadedctrl/osubdl
